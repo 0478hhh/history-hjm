@@ -1,0 +1,8 @@
+/*
+ * Global entry stylesheet.
+ * The original Vue scaffold styles (base.css grid layout, green links,
+ * centered #app column) were removed because they conflict with the
+ * history_outside_redesign.html prototype. All prototype styles now live
+ * in history.css and are applied globally to match the original design.
+ */
+@import './history.css';
