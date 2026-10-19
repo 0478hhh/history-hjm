@@ -1,54 +1,53 @@
-# history-hjm
+# history-hjm 🐱
 
-This template should help get you started developing with Vue 3 in Vite.
+**哈基米牌正史野史构史**
 
-## Recommended IDE Setup
+> 历史不止一种写法，哈基米也有自己的史观。
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📖 项目简介
 
-## Recommended Browser Setup
+`history-hjm` 是一个以中国历史为主题的数字史馆项目，探索正史与野史的不同视角。
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+我们既看正史中的王朝更迭、人物功过，也关注野史里的奇闻轶事与另一种历史叙事。
 
-## Type Support for `.vue` Imports in TS
+以现代化的网页设计呈现历史，让历史更有趣，让构史更自由。
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## ✨ 项目特色
 
-## Customize configuration
+- **正史**：了解历史脉络，探寻人物与事件。
+- **野史**：解锁趣闻轶事，看看历史的另一面。
+- **现代设计**：用更轻松、年轻的视觉体验呈现历史。
+- **哈基米精神**：严肃地研究，不严肃地探索。
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🛠️ 技术栈
 
-## Project Setup
+- Vue 3
+- TypeScript
+- Vite
+- Vue Router
+- Pinia
 
-```sh
+## 🚀 本地运行
+
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+构建生产版本：
 
-```sh
+```bash
 npm run build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+## 🐾 项目理念
 
-```sh
-npm run test:unit
-```
+正史有正史的考据，野史有野史的乐趣。
 
-### Lint with [ESLint](https://eslint.org/)
+至于哈基米牌构史嘛——
 
-```sh
-npm run lint
-```
+**历史可以严谨，探索必须自由，哈基米永不为奴！**
+
+---
+
+*本项目主要用于学习、探索与展示中国历史相关内容。涉及历史传闻与野史时，将尽可能区分史实、推测与民间说法。*
